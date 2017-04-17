@@ -1,19 +1,16 @@
 ---
-title: About RLCode
+title: RLCode 팀의 기술 블로그입니다.
 permalink: /about/
 ---
 
-## 이 블로그는 RLCode Team의 기술 블로그입니다.
-
-
-
-*RLCode*는 *Reinforcement Learning Code*를 뜻하며 함께 강화학습을 공부하고 강화학습 관련 코딩을 하는 팀입니다. http://github.com/rlcode 에서 다양한 RLCode 팀의 오픈소스 프로젝트를 만나보세요.
+*RLCode*는 *Reinforcement Learning Code*를 뜻하며 함께 강화학습을 공부하고 강화학습 관련 코딩을 하는 팀입니다. 좀 더 깊은 공부를 위해서 현재 강화학습 책을 집필중이며 앞으로도 어마어마한 강화학습 삽질을 해나갈 생각입니다.
 
 <br/>
 ## RLCode가 만든 자료들
+http://github.com/rlcode 에서 다양한 RLCode 팀의 오픈소스 프로젝트를 만나보세요.
 
 - 이웅원님의 [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/) - 한글 강화학습 튜토리얼
-
+- [강화학습 예제 모음](https://github.com/rlcode/reinforcement-learning) - 케라스를 이용한 각종 강화학습 예제 모음
 
 
 <br/>
@@ -48,7 +45,7 @@ permalink: /about/
 
 1. 돈을 많이 벌고 싶단 순진한 생각으로 경영학과로 대학교 입학
 2. 하지만, 학교에서 배우는게 없다고 생각해 창업에 도전
-3. 그 과정에서 개발자들이 작업하는 모습을 보고 프로그래밍에 흥미를 갖게
+3. 그 과정에서 개발자들이 작업하는 모습을 보고 프로그래밍에 흥미를 갖게됨
 4. 컴퓨터 공학 복수전공도 신청하고, '멋쟁이 사자처럼'이라는 프로그래밍 동아리에서도 활동하다가 그 동아리에서 주최한 알까기 AI를 만드는 대회에 참가. 
 5. 어떻게 만들까 고민하다가 강화학습을 접하게 됨.그때 만난 팀원들이 RLCode
 6. 지금은 기계학습 분야로 대학원 진학 예정중.
@@ -68,8 +65,4 @@ permalink: /about/
 
 1. 딥러닝을 이용한 자연어 처리 공부를 하다가 강화학습이 응용되는 부분을 보며 공부를 시작함.
 2. 재밌음.
-
-  
-<br/>
-좀 더 깊은 공부를 위해서 현재 강화학습 책을 집필중이며 앞으로도 어마어마한 강화학습 삽질을 해나갈 생각입니다.
 

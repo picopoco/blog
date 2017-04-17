@@ -5,7 +5,7 @@
 # Site
 title: RLCode
 subtitle:
-description:
+description: 한국어로된 강화학습 & 딥러닝 블로그
 author: RLCode
 language: kr
 timezone:
@@ -69,4 +69,7 @@ archive_generator:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/rlcode/rlcode.github.io.git
+  branch: master
+  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
